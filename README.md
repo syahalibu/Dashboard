@@ -1,2 +1,2 @@
 # Dashboard - ME
-Kebutuhan Dashboard waktu magang
+Kebutuhan Dashboard (Magang)
